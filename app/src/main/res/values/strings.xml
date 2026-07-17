@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PodNest</string>
+    <string name="home_title">Home</string>
+    <string name="home_placeholder">Continue Listening, followed shows, and recent episodes will appear here.</string>
+    <string name="search_title">Search</string>
+    <string name="library_title">Library</string>
+    <string name="settings_title">Settings</string>
+    <string name="search_placeholder">Search for podcasts will be added in a later phase.</string>
+    <string name="library_placeholder">Followed shows, downloads, and history will be added in later phases.</string>
+    <string name="settings_placeholder">Playback and download preferences will be added in a later phase.</string>
 </resources>
